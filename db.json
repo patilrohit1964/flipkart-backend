@@ -1,0 +1,624 @@
+{
+  "mobiles": [
+    {
+      "title": "realme",
+      "img": "./images/realme1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "7948"
+    },
+    {
+      "title": "realme",
+      "img": "./images/realme2.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "3f20"
+    },
+    {
+      "title": "realme",
+      "img": "./images/realme3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "7413"
+    },
+    {
+      "title": "realme",
+      "img": "./images/realme4.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "0c13"
+    },
+    {
+      "title": "realme",
+      "img": "./images/realme5.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "35b2"
+    },
+    {
+      "title": "realme",
+      "img": "./images/realme3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "7a29"
+    },
+    {
+      "title": "oppo",
+      "img": "./images/oppo1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "6f6b"
+    },
+    {
+      "title": "oppo",
+      "img": "./images/oppo4.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "1bdf"
+    },
+    {
+      "title": "oppo",
+      "img": "./images/oppo6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "29fb"
+    },
+    {
+      "title": "oppo",
+      "img": "./images/oppo4.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "f5b4"
+    },
+    {
+      "title": "oppo",
+      "img": "./images/oppo5.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "b55e"
+    },
+    {
+      "title": "oppo",
+      "img": "./images/oppo6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "a565"
+    },
+    {
+      "title": "infinix",
+      "img": "./images/finix1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "5577"
+    },
+    {
+      "title": "infinix",
+      "img": "./images/finix2.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "e99e"
+    },
+    {
+      "title": "infinix",
+      "img": "./images/finix3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "2f17"
+    },
+    {
+      "title": "infinix",
+      "img": "./images/finix5.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "10b1"
+    },
+    {
+      "title": "infinix",
+      "img": "./images/finix6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "800d"
+    },
+    {
+      "title": "infinix",
+      "img": "./images/finix3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "a8ff"
+    },
+    {
+      "title": "vivo",
+      "img": "./images/vi1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "17e0"
+    },
+    {
+      "title": "vivo",
+      "img": "./images/vi2.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "4b59"
+    },
+    {
+      "title": "vivo",
+      "img": "./images/vi3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "c422"
+    },
+    {
+      "title": "vivo",
+      "img": "./images/vi4.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "0403"
+    },
+    {
+      "title": "vivo",
+      "img": "./images/vi6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "d623"
+    },
+    {
+      "title": "vivo",
+      "img": "./images/vi3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "35fa"
+    },
+    {
+      "title": "iphone",
+      "img": "./images/ap1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "0e05"
+    },
+    {
+      "title": "iphone",
+      "img": "./images/ap2.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "3d3c"
+    },
+    {
+      "title": "iphone",
+      "img": "./images/ap3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "7325"
+    },
+    {
+      "title": "iphone",
+      "img": "./images/ap4.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "e037"
+    },
+    {
+      "title": "iphone",
+      "img": "./images/ap5.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "a6a1"
+    },
+    {
+      "title": "iphone",
+      "img": "./images/ap6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "e90a"
+    },
+    {
+      "title": "poco",
+      "img": "./images/poco1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "d74e"
+    },
+    {
+      "title": "poco",
+      "img": "./images/poco2.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "5a89"
+    },
+    {
+      "title": "poco",
+      "img": "./images/poco3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "f654"
+    },
+    {
+      "title": "poco",
+      "img": "./images/poco4.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "64be"
+    },
+    {
+      "title": "poco",
+      "img": "./images/poco5.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "008d"
+    },
+    {
+      "title": "poco",
+      "img": "./images/poco6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "9838"
+    },
+    {
+      "title": "motorola",
+      "img": "./images/mo1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "240e"
+    },
+    {
+      "title": "motorola",
+      "img": "./images/mo2.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "73de"
+    },
+    {
+      "title": "motorola",
+      "img": "./images/mo3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "f515"
+    },
+    {
+      "title": "motorola",
+      "img": "./images/mo4.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "a0c1"
+    },
+    {
+      "title": "motorola",
+      "img": "./images/mo5.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "40be"
+    },
+    {
+      "title": "motorola",
+      "img": "./images/mo6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "cbd4"
+    },
+    {
+      "title": "snmsung",
+      "img": "./images/sn1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "773d"
+    },
+    {
+      "title": "snmsung",
+      "img": "./images/sn2.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "efca"
+    },
+    {
+      "title": "snmsung",
+      "img": "./images/sn3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "e860"
+    },
+    {
+      "title": "snmsung",
+      "img": "./images/sn4.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "6a84"
+    },
+    {
+      "title": "snmsung",
+      "img": "./images/sn5.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "af49"
+    },
+    {
+      "title": "snmsung",
+      "img": "./images/sn6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "26c1"
+    },
+    {
+      "title": "redmi",
+      "img": "./images/mi1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "5d3e"
+    },
+    {
+      "title": "redmi",
+      "img": "./images/mi2.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "a5f9"
+    },
+    {
+      "title": "redmi",
+      "img": "./images/mi6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "1842"
+    },
+    {
+      "title": "redmi",
+      "img": "./images/mi4.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "73aa"
+    },
+    {
+      "title": "redmi",
+      "img": "./images/mi5.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "62e0"
+    },
+    {
+      "title": "redmi",
+      "img": "./images/mi6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "a021"
+    },
+    {
+      "title": "google",
+      "img": "./images/go1.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "e5ee"
+    },
+    {
+      "title": "google",
+      "img": "./images/go2.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "5145"
+    },
+    {
+      "title": "google",
+      "img": "./images/go6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "9781"
+    },
+    {
+      "title": "google",
+      "img": "./images/go5.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "5a3f"
+    },
+    {
+      "title": "google",
+      "img": "./images/go6.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "48bf"
+    },
+    {
+      "title": "google",
+      "img": "./images/go3.webp",
+      "price": "8,999",
+      "badge": "4.3",
+      "like": "(78,3432)",
+      "odprice": "12000",
+      "discount": "20%off",
+      "id": "4284"
+    }
+  ],
+  "cart": [
+    {
+      "id": "11a6",
+      "title": "iphone",
+      "img": "./images/ap5.webp",
+      "price": "8,999"
+    },
+    {
+      "id": "eb59",
+      "title": "iphone",
+      "img": "./images/ap2.webp",
+      "price": "8,999"
+    },
+    {
+      "id": "93d3",
+      "title": "iphone",
+      "img": "./images/ap6.webp",
+      "price": "8,999"
+    }
+  ]
+}
